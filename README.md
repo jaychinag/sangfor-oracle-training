@@ -1,6 +1,7 @@
 # sangfor-oracle-training
 This outline for Oracle training.
-
+asdfasd
+disanheang
 资料分享篇
 1 配置一个SVN或FTP服务器或放置在github
 2 放置相关文档软件
