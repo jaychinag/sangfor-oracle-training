@@ -52,8 +52,7 @@ Markdown 语法速查表
    * 项目2  
 3 其它  
 图片  
-![深信服LOGO(https://github.com/jaychinag/sangfor-oracle-training/blob/master/sxf.png)  
-链接  
+![深信服LOGO](https://github.com/jaychinag/sangfor-oracle-training/blob/master/sxf.png)  
 [链接名称](http://gitcafe.com)  
 引用  
 > 第一行引用文字  
