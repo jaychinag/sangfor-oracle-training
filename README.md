@@ -9,3 +9,11 @@ This outline for Oracle training.
 	2.4 PDF资料  
 	2.5 PPT资料  
 	2.6 视频资料  
+
+```
+@Override
+protected void onDestroy() {
+    EventBus.getDefault().unregister(this);
+    super.onDestroy();
+}
+```
