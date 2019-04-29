@@ -52,7 +52,7 @@ Markdown 语法速查表
    * 项目2  
 3 其它  
 图片  
-![图片名称](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%B7%B1%E4%BF%A1%E6%9C%8D&step_word=&hs=0&pn=11&spn=0&di=117150&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1600361382%2C1013898287&os=4022047978%2C4189452609&simid=0%2C0&adpicid=0&lpn=0&ln=1479&fr=&fmq=1556507247314_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fwww.chinasmartcityexpo.com%2Fi%2Fu%2F1807%2F02%2F50037127.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bvitgwf4w6pvtpyjxr5_z%26e3Bv54AzdH3Fgjof_z%26e3Brir%3Ft1%3Dnla&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)  
+![图片名称](https://github.com/jaychinag/sangfor-oracle-training/blob/master/sxf.png)  
 链接  
 [链接名称](http://gitcafe.com)  
 引用  
